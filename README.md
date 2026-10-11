@@ -24,11 +24,11 @@ The consistency checker is a lightweight keyword heuristic. It does not verify c
 
 ## Screenshots
 
-### Upload a document
-![Upload file](Screenshots/Upload_file.png)
-
 ### Document preview
 ![Document preview](Screenshots/Preview.png)
+
+### Upload a document
+![Upload file](Screenshots/Upload_file.png)
 
 ### Analyzed results
 ![Analyzed results](Screenshots/Analyzed_Results.png)
