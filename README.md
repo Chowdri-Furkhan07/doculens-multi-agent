@@ -10,6 +10,8 @@
 
 DocuLens is a Streamlit app that looks at a plain-text document through three lenses, run in sequence by a coordinator: it summarizes the text, classifies its sentiment, and scans its language for risk signals.
 
+---
+
 ## Overview
 
 Upload a `.txt` file and DocuLens passes it through three agents:
