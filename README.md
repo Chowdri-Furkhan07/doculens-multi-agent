@@ -35,6 +35,8 @@ The consistency checker is a lightweight keyword heuristic. It does not verify c
 ### Analyzed results
 ![Analyzed results](Screenshots/Analyzed_Results.png)
 
+---
+
 ## How It Works
 
 - `coordinator.py` runs the agents in order: summarize, sentiment, consistency check. The consistency checker also receives the summary as context.
