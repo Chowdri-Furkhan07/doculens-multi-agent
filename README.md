@@ -63,6 +63,8 @@ doculens-multi-agent/
 └── LICENSE
 ```
 
+---
+
 ## Tech Stack
 
 - Python 3.11
