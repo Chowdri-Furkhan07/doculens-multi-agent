@@ -24,6 +24,8 @@ Upload a `.txt` file and DocuLens passes it through three agents:
 
 The consistency checker is a lightweight keyword heuristic. It does not verify claims against any external source.
 
+---
+
 ## Screenshots
 
 ### Document preview
