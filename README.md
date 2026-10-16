@@ -46,6 +46,8 @@ The consistency checker is a lightweight keyword heuristic. It does not verify c
 - `app.py` is the Streamlit front end: file upload, document preview, a stage strip, and one result panel per stage.
 - `config.py` holds model names, length limits and keyword lists. Several can be overridden with environment variables.
 
+---
+
 ## Project Structure
 
 ```
