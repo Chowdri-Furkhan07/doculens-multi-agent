@@ -134,6 +134,7 @@ pytest
 ## Author
 
 **Chowdri Furkhan**
+
 B.E. in Artificial Intelligence and Machine Learning, Bengaluru, India
 
 GitHub: [@Chowdri-Furkhan07](https://github.com/Chowdri-Furkhan07)
